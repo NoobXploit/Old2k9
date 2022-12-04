@@ -15,7 +15,7 @@ git clone https://github.com/NoobXploit/Old2k9
 ````
 cd Old2k9
 ls
-python dump.py
+python dump009.py
 ````
 
 ### Use 123456 for password 
